@@ -1,0 +1,5 @@
+package DependancyInversion;
+
+public class Email {
+
+}
